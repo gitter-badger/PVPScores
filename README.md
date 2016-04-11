@@ -1,4 +1,6 @@
 # PVPScores
+
+[![Join the chat at https://gitter.im/bitsol/PVPScores](https://badges.gitter.im/bitsol/PVPScores.svg)](https://gitter.im/bitsol/PVPScores?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A plugin that gives server owners an easy way to manage PVP matches and scoreboards.
 ## Dependencies
 <a href="http://scriptcraftjs.org">ScriptCraft</a><br>
